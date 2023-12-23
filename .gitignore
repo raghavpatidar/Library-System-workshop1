@@ -1,0 +1,7 @@
+# Ignore all .class files in the src directory
+/src/main/java/com/workshop/*.class
+
+# Ignore bin and lib directories
+/bin/
+/lib/
+/target/classes
